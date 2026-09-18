@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/ayushhnn/Leet-Submissions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ayushhnn/Leet-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushhnn/Leet-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/ayushhnn/Leet-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ayushhnn/Leet-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
